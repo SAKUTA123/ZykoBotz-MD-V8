@@ -44,36 +44,36 @@ const readMore = more.repeat(4001)
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sgh = 'https://github.com/ZykoBotz-MD' // github
-global.sgc = 'https://chat.whatsapp.com/INq67rkTp8iAwiVvLOFAYH' // group whatsapp
+global.sgh = 'no' // github
+global.sgc = 'no' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://youtu.be/E1Cb97Rb-8U' // my youtube channel
+global.snh = 'no' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/@ZykoBotzMD'
-global.tik = 'https://www.tiktok.com/@zykosiapa' 
-global.tautanwa = 'https://wa.me/message/CXI3LHFLC6NON1'
-global.wame = 'https://wa.me/message/CXI3LHFLC6NON1' // kalau gk punya bisa ganti pake gini wa.me/6283133329293
+global.syt = 'no'
+global.tik = 'no' 
+global.tautanwa = 'https://wa.me/message/6287760550924'
+global.wame = 'https://wa.me/message/6287760550924' // kalau gk punya bisa ganti pake gini wa.me/6283133329293
 
 /*============== PAYMENT ==============*/
-global.pdana = '0852 1264 9276' //dana
-global.povo = '0852 1264 9276' //ovo
-global.pgopay = '0852 1264 9276' //gopay
-global.plinkaja = '0852 1264 9276' //link aja
-global.ppulsa = '0852 1264 9276' //telkomsel
-global.ppulsa2 = '0831 3332 9293' // kalau ada kartu lain isi aja
+global.pdana = 'Chat Owner' //dana
+global.povo = 'Chat Owner' //ovo
+global.pgopay = 'Chat Owner' //gopay
+global.plinkaja = 'Chat Owner' //link aja
+global.ppulsa = 'Chat Owner' //telkomsel
+global.ppulsa2 = 'Chat Owner' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282124690625'
-global.nomorown = '6283133329293'
-global.nomorown1 = '6283133329293' //pake No Pacar lo Juga Boleh
+global.nomorbot = '6287760550924'
+global.nomorown = '6287760550924'
+global.nomorown1 = '6287760550924' //pake No Pacar lo Juga Boleh
 global.namebot = 'ZYKOBOTZ MD'
-global.nameown = 'ZYKO MD'
-global.nameown1 = 'LISA AMELIA' //Pake Nama Pacar Lo Juga Boleh
+global.nameown = 'Leon MD'
+global.nameown1 = 'Fahri' //Pake Nama Pacar Lo Juga Boleh
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INFO BIO DATA OWN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/kabulsaputra21' // ig lo
-global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/lisaamelia8680' // ig cewek lo
+global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : Tidak Ada' // ig lo
+global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : tidak ada' // ig cewek lo
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
 global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
@@ -82,7 +82,7 @@ global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283133329293', 'ZYKO MD', true],
+  ['6287760550924', 'ZYKO MD', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -102,14 +102,14 @@ global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuw
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By ZYKO MD`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '              「 ZYKOBOTZ MD  あ」'
+global.author = '              「 Leon MD  あ」'
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 global.danied = pickRandom(["✘ 𝗘𝗿𝗼𝗿 𝟰𝟬𝟰","𝘼𝙠𝙨𝙚𝙨 𝘿𝙞𝙩𝙤𝙡𝙖𝙠","⚠️ 𝘼𝙘𝙘𝙨𝙚𝙨 𝘿𝙖𝙣𝙞𝙚𝙙 ⚠️"])
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'ZYKOBOTZ MD'
-global.stickauth = `By ©ZYKO MD`
+global.stickauth = `By ©Leon MD`
  
 /*============== LOGO ==============*/
 global.fotonya1 = 'https://telegra.ph/file/bd078351110aaaaf3aa59.jpg' 
@@ -849,9 +849,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 global.flaaa = fla
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "noot found"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0831-3332-9293'
+global.phn = '0877-6055-0924'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
